@@ -1,9 +1,9 @@
-def square_array(array)
-
-new_array = []
-
-while array do |integer|
-new_array << integer ** 2
- end
- return new_array
+def square_array(numbers)
+  counter = 0
+  new_array = []
+  while counter < array.length
+    do new_array.push
+    (array[counter]*array[counter] counter +=
+  end
+return new_array
 end
